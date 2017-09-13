@@ -14,5 +14,6 @@ public class UserContainer {
 		u.show();
 		System.out.println("你好");
 		System.out.println("下面开始面向切面AOP");
+		System.out.println("再次提交");
 	}
 }

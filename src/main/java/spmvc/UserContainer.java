@@ -12,5 +12,7 @@ public class UserContainer {
 		fa = new ClassPathXmlApplicationContext("spring-servlet.xml");
 		User u=(User) fa.getBean("user");
 		u.show();
+		System.out.println("你好");
+		System.out.println("下面开始面向切面AOP");
 	}
 }

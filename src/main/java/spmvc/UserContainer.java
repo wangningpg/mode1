@@ -16,6 +16,5 @@ public class UserContainer {
 		System.out.println("下面开始面向切面AOP");
 		System.out.println("再次提交");
 		System.out.println("3次提交GitHub");
-		System.out.println("11");
 	}
 }
